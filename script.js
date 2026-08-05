@@ -329,7 +329,7 @@ function renderApp() {
       <header class="app-header">
         <div class="app-header__copy">
           <span class="eyebrow">${escapeHtml(state.data.nombre)}</span>
-          <h1 class="app-title">NIHSS (national Institutes of Health Stroke Scale)</h1>
+          <h1 class="app-title">NIHSS (National Institutes of Health Stroke Scale)</h1>
           <p class="app-subtitle">Evaluación guiada paso a paso con foco exclusivo en el ítem actual.</p>
         </div>
           <div class="app-header__aside">
